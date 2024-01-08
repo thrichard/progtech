@@ -1,4 +1,6 @@
 # progtech
+# progTech-main a kezdeti stádium 
+# Wumpusz.zip a végleges ujragondolt beadandó
 Ez alapján próbáltam elkészíteni
 ------------------------------------------------------
 Wumpus világ
